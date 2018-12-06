@@ -25,14 +25,14 @@ Popular SSR Framework
 ## Next Steps
 
 [Thing you can use after learning plain React.js](https://github.com/rwieruch/road-beyond-react-app)
-uses:
+### uses:
 - only React (create-react-app)
 - firebase
 - react-router 4
 - semantic-ui
 - styled-components
 - no Redux/MobX
-features:
+### features:
 - Sign In
 - Sign Up
 - Sign Out
