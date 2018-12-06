@@ -26,17 +26,17 @@ Popular SSR Framework
 
 [Thing you can use after learning plain React.js](https://github.com/rwieruch/road-beyond-react-app)
 uses:
--only React (create-react-app)
--firebase
--react-router 4
--semantic-ui
--styled-components
--no Redux/MobX
+- only React (create-react-app)
+- firebase
+- react-router 4
+- semantic-ui
+- styled-components
+- no Redux/MobX
 features:
--Sign In
--Sign Up
--Sign Out
--Password Forget
--Password Change
--Protected Routes with Authorization
--Database: Users, Stories
+- Sign In
+- Sign Up
+- Sign Out
+- Password Forget
+- Password Change
+- Protected Routes with Authorization
+- Database: Users, Stories
